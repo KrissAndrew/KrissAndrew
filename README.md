@@ -7,7 +7,7 @@ I am interested in pursuing a career in web development. At the moment I am work
 I am fairly new to GitHub but plan to use this space as a showcase for my future projects as I get more proficient at developing them. 
 
 
-Current Tools:
+Current Tools:<br/>
 ![icons8-react-a-javascript-library-for-building-user-interfaces-24](https://user-images.githubusercontent.com/65888709/152439794-174e183e-4665-46aa-82af-ab9cab480a1c.png)
 
 <!---
