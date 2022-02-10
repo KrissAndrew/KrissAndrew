@@ -13,10 +13,11 @@ I am fairly new to GitHub but plan to use this space as a showcase for my future
 ![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) **Jan 2022 - Current** - React, NodeJS, Express & MongoDB - The MERN Fullstack Guide<br/>
 
 
-Current Tools:<br/>
+Languages & tools:<br/>
 ![html-5](https://user-images.githubusercontent.com/65888709/153366958-dad4200c-fa9c-4aa6-90d9-2ce2b2d11b8f.png)
 ![css](https://user-images.githubusercontent.com/65888709/153367058-5b89e735-591f-4181-a8c8-2356abaae0f5.png)
 ![js](https://user-images.githubusercontent.com/65888709/153367068-58554436-2964-47db-842e-e63d92725e9a.png)
+![react](https://user-images.githubusercontent.com/65888709/153367339-090be0b6-fcc8-4437-a0db-30836d3ce3cb.png)
 
 
 <!---
