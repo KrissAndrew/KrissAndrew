@@ -6,7 +6,7 @@ I am interested in pursuing a career in web development. At the moment I am work
 
 Courses:
 # add tick boxes here
-- The Odin Project
+![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png)The Odin Project
 - React - The Complete Guide (incl Hooks, React Router, Redux)
 - React Native - The Practical Guide
 - React, NodeJS, Express & MongoDB - The MERN Fullstack Guide
