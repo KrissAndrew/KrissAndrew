@@ -6,10 +6,10 @@ I am interested in pursuing a career in web development. At the moment I am work
 
 Courses:
 # add tick boxes here
-![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png)The Odin Project
-- React - The Complete Guide (incl Hooks, React Router, Redux)
-- React Native - The Practical Guide
-- React, NodeJS, Express & MongoDB - The MERN Fullstack Guide
+![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) The Odin Project
+![icons8-checked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357422-c9ac3873-7063-448e-9454-862e52077b15.png) React - The Complete Guide (incl Hooks, React Router, Redux)
+![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) React Native - The Practical Guide
+![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) React, NodeJS, Express & MongoDB - The MERN Fullstack Guide
 
 I am fairly new to GitHub but plan to use this space as a showcase for my future projects as I get more proficient at developing them. 
 
