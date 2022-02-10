@@ -6,8 +6,8 @@ I am interested in pursuing a career in web development. At the moment I am work
 
 Courses:
 # add tick boxes here
-![icons8-checked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357422-c9ac3873-7063-448e-9454-862e52077b15.png) React - The Complete Guide (incl Hooks, React Router, Redux) - Dec 2022 - Jan 2022 <br/>
-![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) The Odin Project
+![icons8-checked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357422-c9ac3873-7063-448e-9454-862e52077b15.png) <b>Dec 2021 - Jan 2022<b> - React - The Complete Guide (incl Hooks, React Router, Redux) <br/>
+![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) The Odin Project Jan 2022<br/>
 
 ![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) React Native - The Practical Guide
 ![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) React, NodeJS, Express & MongoDB - The MERN Fullstack Guide
