@@ -26,4 +26,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## What learning CSS has felt like
-<iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/65888709/153530753-06f79b6a-a9a3-44b8-9af1-55810f8657ca.gif)
+
