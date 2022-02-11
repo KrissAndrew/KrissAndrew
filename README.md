@@ -24,3 +24,6 @@ Languages & tools:<br/>
 KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## What learning CSS has felt like
+<iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2">via GIPHY</a></p>
