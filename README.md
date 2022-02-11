@@ -25,6 +25,7 @@ KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## What learning CSS has felt like
-![giphy](https://user-images.githubusercontent.com/65888709/153530753-06f79b6a-a9a3-44b8-9af1-55810f8657ca.gif)
+<p align="center">
+  ![giphy](https://user-images.githubusercontent.com/65888709/153530753-06f79b6a-a9a3-44b8-9af1-55810f8657ca.gif)
+</p>
 
