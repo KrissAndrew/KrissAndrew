@@ -25,7 +25,6 @@ KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
   ![153530753-06f79b6a-a9a3-44b8-9af1-55810f8657ca](https://user-images.githubusercontent.com/65888709/153530955-6e47c4cf-83a6-4ece-a222-ccf01575b5c4.gif)
-</p>
+
 
