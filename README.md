@@ -18,6 +18,8 @@ Languages & tools:<br/>
 ![css](https://user-images.githubusercontent.com/65888709/153367058-5b89e735-591f-4181-a8c8-2356abaae0f5.png)
 ![js](https://user-images.githubusercontent.com/65888709/153367068-58554436-2964-47db-842e-e63d92725e9a.png)
 ![react](https://user-images.githubusercontent.com/65888709/153367339-090be0b6-fcc8-4437-a0db-30836d3ce3cb.png)
+![icons8-python-48 (1)](https://user-images.githubusercontent.com/65888709/160224578-f720b712-11cf-4de2-98cb-0ecfca9b9f8d.png)
+
 
 
 <!---
@@ -25,6 +27,5 @@ KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-  ![153530753-06f79b6a-a9a3-44b8-9af1-55810f8657ca](https://user-images.githubusercontent.com/65888709/153530955-6e47c4cf-83a6-4ece-a222-ccf01575b5c4.gif)
 
 
