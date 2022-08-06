@@ -2,16 +2,7 @@ Hey there!
 
 My name is Kriss Andrew. I am currently a student at Queensland University of Technology, working my way through the third of my four year dual degree for a bachelor of IT (computer science)/ bachelor of science (biology).
 
-I am interested in pursuing a career in web development, but am still learning and open to any and all technology related opportunities. At the moment I am working my way through The Odin Project (TOP) and teaching myself how to build websites/apps using React/React Native.
-
-I am fairly new to GitHub but plan to use this space as a showcase for my future projects as I get more proficient at developing them. 
-
-## Courses:<br/>
-![icons8-checked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357422-c9ac3873-7063-448e-9454-862e52077b15.png) **Dec 2021 - Jan 2022** - React - The Complete Guide (incl Hooks, React Router, Redux) <br/>
-![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) **Jan 2022 - Current** - The Odin Project<br/>
-![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) **Jan 2022 - Current** - React Native - The Practical Guide<br/>
-![icons8-unchecked-checkbox-16](https://user-images.githubusercontent.com/65888709/153357285-4da34be4-892b-40a5-bf8a-f7a84cb9be3c.png) **Jan 2022 - Current** - React, NodeJS, Express & MongoDB - The MERN Fullstack Guide<br/>
-
+I am interested in pursuing a career in software engineering, but am still learning and open to any and all technology related opportunities.
 
 Languages & tools:<br/>
 ![icons8-python-24](https://user-images.githubusercontent.com/65888709/160224616-7f2bb820-bbf9-4d57-a6a4-0c249f940ec2.png)
