@@ -1,8 +1,8 @@
 Hey there!
 
-My name is Kriss Andrew. I am currently a student at Queensland University of Technology, working my way through the third of my four year dual degree for a bachelor of IT (computer science)/ bachelor of science (biology).
+My name is Kriss Andrew. I am currently a student at Queensland University of Technology, working my way through the final year of my four year dual degree for a bachelor of IT (computer science) / bachelor of science (biology).
 
-I am interested in pursuing a career in software engineering, but am still learning and open to any and all technology related opportunities.
+I am currently pursuing a career in software engineering, I am commited to continuous learning and open to any technology related opportunities.
 
 Languages & tools:<br/>
 ![icons8-python-24](https://user-images.githubusercontent.com/65888709/160224616-7f2bb820-bbf9-4d57-a6a4-0c249f940ec2.png)
