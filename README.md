@@ -14,9 +14,9 @@ Languages & tools:<br/>
 ![html-5](https://user-images.githubusercontent.com/65888709/153366958-dad4200c-fa9c-4aa6-90d9-2ce2b2d11b8f.png)
 ![css](https://user-images.githubusercontent.com/65888709/153367058-5b89e735-591f-4181-a8c8-2356abaae0f5.png)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,python)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=python, js, java, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php, html, css, bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws, git, github, linux)](https://skillicons.dev)
 
 <!---
 KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
