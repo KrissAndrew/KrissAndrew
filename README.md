@@ -4,8 +4,9 @@ My name is Kriss Andrew. I am currently a student at Queensland University of Te
 
 I am currently pursuing a career in software engineering, I am commited to continuous learning and open to any technology related opportunities.
 
-Languages & tools:<br/>
+
 <p align="center">
+  Languages & tools:<br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,r" />
     <br/>
@@ -16,9 +17,6 @@ Languages & tools:<br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
-
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 <!---
 KrissAndrew/KrissAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
