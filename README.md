@@ -7,14 +7,13 @@ I am currently pursuing a career in software engineering, I am commited to conti
 Languages & tools:<br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,cs,c" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,r" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
-[![My Skills]()](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,bootstrap)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,linux)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
