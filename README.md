@@ -8,6 +8,7 @@ Languages & tools:<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,r" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=php,html,css,bootstrap" />
     <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
