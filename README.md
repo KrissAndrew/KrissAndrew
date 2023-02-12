@@ -10,7 +10,9 @@ Languages & tools:<br/>
     <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,r" />
     <br/>
     <img src="https://skillicons.dev/icons?i=php,html,css,bootstrap" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
