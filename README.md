@@ -16,7 +16,7 @@ Languages & tools:<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,java)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php, html, css, bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,linux)](https://skillicons.dev)
 
